@@ -22,7 +22,7 @@ gibi sorunları ortadan kaldırmayı hedefleyen bir yapay zeka destekli taşıma
 - Batarya durum bildirimi
 - Şarj kulübesine otomatik giriş
 
-### ⚙ Fonksiyonel Olmayan Gereksinimler
+###  Fonksiyonel Olmayan Gereksinimler
 
 - 6–8 saat kesintisiz çalışma
 - Maksimum 3 saat şarj süresi
