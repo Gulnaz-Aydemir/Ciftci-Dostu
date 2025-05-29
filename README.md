@@ -1,4 +1,4 @@
-# 🌾 Çiftçi Dostu – Otonom Tarımsal Taşıma Aracı
+# 🌾 Çiftçi Dostu – Otonom Tarımsal Ürün Taşıma Aracı
 
 Tarım sektöründe ürün taşıma süreçlerini akıllı hale getirmek üzere geliştirilen **Çiftçi Dostu**, yapay zeka ve otonom navigasyon teknolojileri ile donatılmış, çevre dostu ve verimli bir taşıma çözümüdür. Küçük ve orta ölçekli çiftçilerin verimliliğini artırmak ve iş gücü maliyetlerini azaltmak için tasarlanmıştır.
 
