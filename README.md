@@ -88,10 +88,6 @@ Proje, **Scrum** metodolojisi ile 7 sprint boyunca yönetilmiştir. Her sprint s
 - Gelişmiş yapay zeka destekli karar sistemleri
 - Tamamen otonom tarımsal operasyon yönetimi
 
-## 🧪 Kullanıcı Senaryoları
-
-📘 Ayrıntılı kullanıcı senaryoları için [Ek-1 Kullanıcı Hikayeleri Kitapçığı](link-verilecek).
-
 ## 🔗 Bağlantılar
 
 - Proje Sahibi: **Gülnaz Aydemir** – [220204019@ostimteknik.edu.tr](mailto:220204019@ostimteknik.edu.tr)
