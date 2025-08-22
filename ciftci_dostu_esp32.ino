@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <DHT.h>
 #include <TinyGPS++.h>
-#include <HardwareSerial.h> // Donanımsal seri portlar için
+#include <HardwareSerial.h>
 
 // MPU6050 Kütüphaneleri
 #include <Adafruit_MPU6050.h>
@@ -493,3 +493,4 @@ void loop()
   }
   delay(10);
 }
+
