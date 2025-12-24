@@ -90,7 +90,7 @@ Proje, **Scrum** metodolojisi ile 7 sprint boyunca yönetilmiştir. Her sprint s
 
 ##  Bağlantılar
 
-- Proje Sahibi: **Gülnaz Aydemir** – [220204019@ostimteknik.edu.tr](mailto:220204019@ostimteknik.edu.tr)
+- Proje Sahibi: **Gülnaz Aydemir** – [gulnazaydemir22@gmail.com](mailto:gulnazaydemir22@gmail.com)
 - GitHub Repository: [github.com/Gulnaz-Aydemir/Ciftci-Dostu](https://github.com/Gulnaz-Aydemir/Ciftci-Dostu)
 
 ##  Kaynakça
